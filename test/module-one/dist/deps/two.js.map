@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../__src/deps/two.ts"],"names":["Two","name"],"mappings":";;;;;;;;;;;;;IACaA,G;;;;;0BAEK;AACV,aAAO,KAAKC,IAAZ;AACH;;;AAED,eAAoBA,IAApB,EAAiC;AAAA;AAEhC","sourcesContent":["\r\nexport class Two{\r\n\r\n    say(): string {\r\n        return this.name;\r\n    }\r\n\r\n    constructor(private name: string){\r\n\r\n    }\r\n}\r\n"]}
