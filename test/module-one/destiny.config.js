@@ -2,11 +2,11 @@
 module.exports = {
     src: './__src',
     dist:'./dist',
-    files: ['**/*.ts', '**/*.scss'],
+    files: ['**/*.ts', '**/*.scss', '**/*.html'],
     exclude: [],
     filename: '[name].[ext]',
     options: {
         'scriptSourceMap': true,
-        'styleSourceMap': false
+        'styleSourceMap': true
     }
 }

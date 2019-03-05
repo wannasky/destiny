@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../__src/deps/one.ts"],"names":["One","name"],"mappings":";;;;;;;;;;;;;;;IACaA,G;;;;;;kCAEc,K;;;;;0BAET;AACV,aAAO,KAAKC,IAAZ;AACH","sourcesContent":["\r\nexport class One{\r\n\r\n    private name: string = 'one';\r\n\r\n    say(): string {\r\n        return this.name;\r\n    }\r\n}\r\n"]}
