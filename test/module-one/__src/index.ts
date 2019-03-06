@@ -11,7 +11,7 @@ class Test {
     }
 
     say() {
-        console.log('name::', this.name);
+        console.log('name:::', this.name);
     }
 
     constructor(private name: string) {

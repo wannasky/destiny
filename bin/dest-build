@@ -18,7 +18,6 @@ commander
     .option('-c, --config [path]', '配置文件')
     .option('-d, --dist [path]', '输出目录名')
     .option('-w, --watch [value]', '是否监听文件变化')
-    .option('-s, --sourcemap [path]', 'souceMap输出目录')
     .parse(process.argv);
 
 
