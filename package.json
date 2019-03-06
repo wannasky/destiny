@@ -1,7 +1,7 @@
 {
   "name": "@wannasky/destiny",
   "version": "1.0.0",
-  "description": "compiler box",
+  "description": "编译ts、es6、scss",
   "scripts": {},
   "keywords": [
     "typescript",
@@ -9,7 +9,7 @@
     "es7"
   ],
   "bin": {
-    "wans": "./bin/dest"
+    "dest": "./bin/dest"
   },
   "repository": {
     "type": "git",
