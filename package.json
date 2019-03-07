@@ -1,6 +1,6 @@
 {
   "name": "@wannasky/destiny",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "编译ts、es6、scss",
   "scripts": {},
   "keywords": [
