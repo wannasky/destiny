@@ -19,6 +19,7 @@ commander
     .option('-d, --dist [path]', '输出目录名')
     .option('-w, --watch [value]', '是否监听文件变化')
     .option('-m, --minify [value]', '是否压缩文件')
+    .option('-s, --sourceMap [value]', '是否生成sourceMap')
     .parse(process.argv);
 
 
