@@ -1,5 +1,9 @@
+/**
+ * test
+ */
 class Test {
 
+    // age
     private _age: number;
 
     set age(value: number) {

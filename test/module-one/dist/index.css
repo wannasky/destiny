@@ -1,3 +1,11 @@
-html body{font-size:12px}html .wrapper{font-size:122px;color:#ff1000}
+/**html**/
+html body {
+  font-size: 12px;
+}
+
+html .wrapper {
+  font-size: 122px;
+  color: #ff1000;
+}
 
 /*# sourceMappingURL=index.css.map */
