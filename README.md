@@ -4,7 +4,7 @@
 
 ## Via CLI
 
-dest test.ts -d /dist
+dest build test.ts -d /dist
 
 ### options
 
